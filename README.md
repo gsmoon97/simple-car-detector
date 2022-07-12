@@ -1,4 +1,4 @@
-# A Simple Car Detector
+# Simple Car Detector
 
 ## Getting started
 
