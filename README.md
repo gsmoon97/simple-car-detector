@@ -25,3 +25,9 @@ python3 app.py
 | test1.jpg   |        10.5       |
 | test2.jpg   |        9.8        |
 | test3.jpg   |        10.4       |
+
+## Examples
+### Input Image
+![test1.jpg](./static/uploads/test1.jpg)
+### Output Image
+![result_test1.jpg](./static/uploads/result_test1.jpg)
