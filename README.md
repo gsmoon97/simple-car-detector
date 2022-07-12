@@ -1,4 +1,4 @@
-# A Simple Car Detector
+# Simple Car Detector
 
 ## Getting started
 
@@ -16,12 +16,12 @@ python3 app.py
 
 4. Upload images that you want to use for car detection. (supported formats : `png`, `jpg`, `jpeg`, `gif`)
 
-5. Click on submit and wait for the result.
+5. Click on `submit` and wait for the result.
 
 ## Experimentation
 
-| Image       | Inference Time |
-| ----------- | -------------- |
-| test1.jpg   | 10.5           |
-| test2.jpg   | 9.8            |
-| test3.jpg   | 10.4           |
+| Image       | Inference Time(s) |
+| ----------- | ----------------- |
+| test1.jpg   |        10.5       |
+| test2.jpg   |        9.8        |
+| test3.jpg   |        10.4       |
